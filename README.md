@@ -33,7 +33,7 @@ An untrained instance of ChatterBot starts off with no knowledge of how to commu
 This package can be installed from [Github](https://github.com/ShoneGK/ChatterPy) by running:
 
 ```sh
-pip install git+https://github.com/ShoneGK/ChatterPy
+pip install git+https://github.com/CommandoPAX/ArusuChat.git
 ```
 
 Chatterbot also requires corpus of text to use as training data.
